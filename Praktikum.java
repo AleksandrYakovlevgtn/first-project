@@ -1,1 +1,3 @@
-public static class main () {}
+public static class main () {
+
+}
